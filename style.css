@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    border: 2px solid salmon;
+    background: yellow;
+}
+.pic{
+    width: 500px;
+    height: 500px;
+    border: 2px solid salmon;
+    background: yellow;
+    margin: 0 auto;
+}
+
+img{
+    margin-top:150px;
+}
